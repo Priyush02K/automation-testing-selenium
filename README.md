@@ -6,13 +6,22 @@ This project demonstrates best practices in automation testing, clean architectu
 🔥 Features
 
 ✔️ Selenium WebDriver-based automation
+
 ✔️ Page Object Model (POM)
+
 ✔️ TestNG/JUnit test structure
+
 ✔️ Reusable utilities (waits, browsers, configs, screenshots)
+
 ✔️ Centralized test data management
+
 ✔️ HTML reporting (Extent / Allure)
+
 ✔️ Log4j / logging support
+
 ✔️ Cross-browser execution
+
 ✔️ Scalable folder structure
+
 ✔️ CI/CD ready (GitHub Actions / Jenkins)
 
